@@ -1,2 +1,2 @@
-# written-works
-This repository contains samples that showcase my scientific &amp; technical writing skills.
+<b> About My Writing Portfolio </b>
+This repository acts as a writing portfolio that showcases my written scientific &amp; technical work.
