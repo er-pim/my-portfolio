@@ -7,9 +7,9 @@ Welcome to my portfolio! In this repository, I have compiled a variety of sample
 <div align="justify"> Currently, this repository hosts:
   <br><h4> Conference Abstract - Venus Radar Altimetry </h4>
   1 conference abstract showcasing my scientific research on Venus
-  <br><h4> Sample - LiDAR Software Procedure  </h4>
+  <br><h4> Writing Sample - LiDAR Software Procedure  </h4>
   1 procedural document that samples part of the workflow I developed processing legacy LiDAR data, 
-  <br><h4> Lunar Dataset Description & GIS Integration </h4>
+  <br><h4> Writing Sample - Lunar Dataset Description & GIS Integration </h4>
   1 document that samples part of the methods section for my scientific research on the Moon, 
   <br><h4> Code Sample - Simple Hapke Reflectance Model </h4>
   another code sample I wrote to model bidirectional and hemispherical reflectance using Hapke theory (another component of my Moon research). 
