@@ -11,8 +11,6 @@ Welcome to my portfolio! In this repository, I have compiled a variety of sample
   1 procedural document that samples part of the workflow I developed processing legacy LiDAR data, 
   <br><h4> Lunar Dataset Description & GIS Integration </h4>
   1 document that samples part of the methods section for my scientific research on the Moon, 
-  <br><h4> Code Sample - Automated Map Creation with ArcPy </h4>
-  1 code sample showcasing some code that I developed for automating geoprocessing tasks with arcpy in ArcGIS Pro, and 
   <br><h4> Code Sample - Simple Hapke Reflectance Model </h4>
   another code sample I wrote to model bidirectional and hemispherical reflectance using Hapke theory (another component of my Moon research). 
 </div>
