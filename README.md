@@ -1,4 +1,4 @@
-## About Me
+## About
 Welcome! In this repository, I have compiled a variety of samples that highlight my technical/scientific writing and coding skills.
 
 ## Portfolio Overview
